@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Dhananjay
 
-GSoC'21@Orcasound | LFX'21 Mentee @CNCF-LitmusChaos | Full Stack Developer | Microsoft Learn Student Ambassador | Developer Student Club Lead
+GSoC'21@Orcasound | LFX'21 Mentee @CNCF-LitmusChaos | Full Stack Developer | Microsoft Learn Student Ambassador | Former Developer Student Club Lead
 <br>
 Currently 4th year undergrad @IETDAVV, Indore
 
