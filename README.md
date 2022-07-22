@@ -2,7 +2,6 @@
 
 Summer Of Bitcoin'22@Alby | GSoC'21@Orcasound | LFX'21 Mentee @CNCF-LitmusChaos | Full Stack Developer | Microsoft Learn Student Ambassador | Former Developer Student Club Lead
 <br>
-Currently 4th year undergrad @IETDAVV, Indore
 
 <!--- just 
 - 🔭 I’m currently working on ...
